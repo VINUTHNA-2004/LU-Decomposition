@@ -37,13 +37,11 @@ print(L)
 
 print(U)
 
-## Result:
-Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
-
-
 ## Output:
 ![lu decomposition](https://github.com/VINUTHNA-2004/LU-Decomposition/blob/main/Screenshot%20(41).png?raw=true)
 
+## Result:
+Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
 (ii) To find the LU Decomposition of a matrix
 ```
